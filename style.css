@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #ffffff;
+    padding: 0;
+    margin: auto;
+}
+
+.active {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+.navbar-brand {
+    float: left;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 20pt;
+    text-align: center;
+    color: #ffffff;
+    max-width: 248px;
+    background-color: #4aaaa5;
+    margin: 0;
+    padding: 20px;
+    padding-top: 30px;
+    height: 97px;
+}
+
+header {
+    border-bottom: solid #cccccc;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 0;
+}
